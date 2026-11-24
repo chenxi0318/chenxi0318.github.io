@@ -243,5 +243,5 @@ h1, h2, h3, h4, .section-title { font-family: "Noto Serif TC", serif; }
 
 /* Visitor counter */
 .visits { margin-bottom: 8px; font-size: .95rem; }
-.visits strong { font-family: "Cormorant Garamond", serif; font-variant-numeric: lining-nums; font-size: 1.35rem; font-weight: 600; color: var(--accent-ink); margin: 0 4px; }
+.visits strong { font-family: "Inter", sans-serif; font-variant-numeric: tabular-nums; font-size: 1.05rem; font-weight: 700; color: var(--accent-ink); margin: 0 4px; }
 .visits .dot { margin: 0 10px; color: var(--accent); }
