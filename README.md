@@ -1,6 +1,6 @@
 # Johnny Liu 劉晉華 · 個人網站
 
-靜態個人網站，部署於 GitHub Pages：https://chenxi0318.github.io
+靜態個人網站，部署於 GitHub Pages：https://www.jy0318m.com
 
 - `index.html` — 頁面內容
 - `style.css` — 樣式（色系與字體比照婚禮網站）
