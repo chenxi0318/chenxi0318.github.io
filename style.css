@@ -240,3 +240,8 @@ h1, h2, h3, h4, .section-title { font-family: "Noto Serif TC", serif; }
   .pet-wave { width: 68px; }
 }
 @media (prefers-reduced-motion: reduce) { .pet { animation: none !important; } }
+
+/* Visitor counter */
+.visits { margin-bottom: 8px; font-size: .95rem; }
+.visits strong { font-family: "Cormorant Garamond", serif; font-variant-numeric: lining-nums; font-size: 1.35rem; font-weight: 600; color: var(--accent-ink); margin: 0 4px; }
+.visits .dot { margin: 0 10px; color: var(--accent); }
